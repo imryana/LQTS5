@@ -4,5 +4,5 @@
 This is a repository which includes:
 
 * Jupyter notebook (ipynb) file used for the report
-* Fractal workflow link
+* Fractal workflow link (https://app.fractal.team/board/583)
 * Dataset used for the report ('winequality-red.csv' and 'winequality-white.csv')
